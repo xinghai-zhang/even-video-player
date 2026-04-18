@@ -1,6 +1,8 @@
 # even-video-player
 attempt to play videos on even realities on G2 glass
 
+<img width="588" height="365" alt="Screen Recording 2026-04-18 at 1 58 02 PM" src="https://github.com/user-attachments/assets/9f39106f-9bb6-479b-8f2c-84ca0d2e0d8c" />
 
-<img width="588" height="365" alt="Screenshot 2026-04-18 at 1 54 22 PM" src="https://github.com/user-attachments/assets/c0465cb1-f7bd-48b6-9c84-b98c33b0b98e" />
+
+
 
